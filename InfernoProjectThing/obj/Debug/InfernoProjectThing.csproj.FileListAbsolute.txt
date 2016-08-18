@@ -1,0 +1,6 @@
+c:\users\pierce.meikle\documents\visual studio 2015\Projects\InfernoProjectThing\InfernoProjectThing\bin\Debug\InfernoProjectThing.exe.config
+c:\users\pierce.meikle\documents\visual studio 2015\Projects\InfernoProjectThing\InfernoProjectThing\bin\Debug\InfernoProjectThing.exe
+c:\users\pierce.meikle\documents\visual studio 2015\Projects\InfernoProjectThing\InfernoProjectThing\bin\Debug\InfernoProjectThing.pdb
+c:\users\pierce.meikle\documents\visual studio 2015\Projects\InfernoProjectThing\InfernoProjectThing\obj\Debug\InfernoProjectThing.csprojResolveAssemblyReference.cache
+c:\users\pierce.meikle\documents\visual studio 2015\Projects\InfernoProjectThing\InfernoProjectThing\obj\Debug\InfernoProjectThing.exe
+c:\users\pierce.meikle\documents\visual studio 2015\Projects\InfernoProjectThing\InfernoProjectThing\obj\Debug\InfernoProjectThing.pdb

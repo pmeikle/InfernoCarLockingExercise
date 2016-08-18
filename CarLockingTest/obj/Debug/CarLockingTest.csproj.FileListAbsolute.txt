@@ -1,0 +1,9 @@
+c:\users\pierce.meikle\documents\visual studio 2015\Projects\InfernoProjectThing\CarLockingTest\bin\Debug\CarLockingTest.dll
+c:\users\pierce.meikle\documents\visual studio 2015\Projects\InfernoProjectThing\CarLockingTest\bin\Debug\CarLockingTest.pdb
+c:\users\pierce.meikle\documents\visual studio 2015\Projects\InfernoProjectThing\CarLockingTest\bin\Debug\InfernoProjectThing.exe
+c:\users\pierce.meikle\documents\visual studio 2015\Projects\InfernoProjectThing\CarLockingTest\bin\Debug\nunit.framework.dll
+c:\users\pierce.meikle\documents\visual studio 2015\Projects\InfernoProjectThing\CarLockingTest\bin\Debug\InfernoProjectThing.pdb
+c:\users\pierce.meikle\documents\visual studio 2015\Projects\InfernoProjectThing\CarLockingTest\bin\Debug\nunit.framework.xml
+c:\users\pierce.meikle\documents\visual studio 2015\Projects\InfernoProjectThing\CarLockingTest\obj\Debug\CarLockingTest.csprojResolveAssemblyReference.cache
+c:\users\pierce.meikle\documents\visual studio 2015\Projects\InfernoProjectThing\CarLockingTest\obj\Debug\CarLockingTest.dll
+c:\users\pierce.meikle\documents\visual studio 2015\Projects\InfernoProjectThing\CarLockingTest\obj\Debug\CarLockingTest.pdb
